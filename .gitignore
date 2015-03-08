@@ -1,0 +1,7 @@
+*~
+*.pyc
+env/
+gaenv/
+.Rproj.user
+*.iml
+.idea
